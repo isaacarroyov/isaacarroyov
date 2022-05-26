@@ -2,12 +2,12 @@
 
 My full name (as a proud Mexican 🇲🇽) is Miguel Isaac Arroyo Velázquez (he/him), but I prefer my shorter version: **Isaac Arroyo**. I aspire to be a **Data Visualization Professional**. Some of the job positions **I'm more interested in are Information Designer and Data Journalist**.
 
-| 🐦 [twitter](https://www.twitter.com/unisaacarroyov/) | 🌐 [DataViz portfolio](https://unisaacarroyov.myportfolio.com) | 📷 [instagram](https://www.instagram.com/unisaacarroyov/) |📧 isaacarroyov@outlook.com | 
+| 🐦 [twitter](https://www.twitter.com/unisaacarroyov/) | 🌐 [DataViz portfolio](https://unisaacarroyov.myportfolio.com) | 📄 [Résumé](https://github.com/isaacarroyov/isaacarroyov/blob/main/Resume_Isaac_Arroyo.pdf) |📧 isaacarroyov@outlook.com | 
 |---|---|---|---|
 
 ### Quick summary about my academic background
 - ⚛️ I have a BSc. in **Engineering Physics**. 
-- 🌳🔥🌳 My undergraduate thesis focused on **exploring and visualizing wildfire records and environmental data** from different sources (**satellite imagery** was one of them 🛰️ 🗺️) ([Article: Data Exploration + Google Earth Engine as My Undergrad Thesis](https://towardsdatascience.com/data-exploration-google-earth-engine-as-my-undergrad-thesis-531ac794dc9b) + [GitHub Repository](https://github.com/isaacarroyov/thesis_undergrad))
+- 🌳🔥🌳 My undergraduate thesis focused on **exploring and visualizing wildfire records and environmental data** from different sources (**satellite imagery** was one of them 🛰️ 🗺️) ([Medium article](https://towardsdatascience.com/data-exploration-google-earth-engine-as-my-undergrad-thesis-531ac794dc9b) + [GitHub repo](https://github.com/isaacarroyov/thesis_undergrad))
 
 ### My professional interests 🤓
 Although my background is in physics, I aim to use my **data analysis and visualization skills** in other fields. For example, **social sciences and humanism** 🧑‍🤝‍🧑👬👭, **the arts** 🎨, **public policy** 🏛️ and **the environment** (hence my undergrad thesis) 🌱🍃.
