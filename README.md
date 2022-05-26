@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello a todas las personas 👋
 
-<!--
-**isaacarroyov/isaacarroyov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My full name (as a proud Mexican 🇲🇽) is Miguel Isaac Arroyo Velázquez (he/him), but I prefer my shorter version: **Isaac Arroyo**. I aspire to be a **Data Visualization Professional**. Some of the job positions **I'm more interested in are Information Designer and Data Journalist**.
 
-Here are some ideas to get you started:
+| 🐦 [twitter](https://www.twitter.com/unisaacarroyov/) | 🌐 [DataViz portfolio](https://unisaacarroyov.myportfolio.com) | 📷 [instagram](https://www.instagram.com/unisaacarroyov/) |📧 isaacarroyov@outlook.com | 
+|---|---|---|---|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quick summary about my academic background
+- ⚛️ I have a BSc. in **Engineering Physics**. 
+- 🌳🔥🌳 My undergraduate thesis focused on **exploring and visualizing wildfire records and environmental data** from different sources (**satellite imagery** was one of them 🛰️ 🗺️) ([Article: Data Exploration + Google Earth Engine as My Undergrad Thesis](https://towardsdatascience.com/data-exploration-google-earth-engine-as-my-undergrad-thesis-531ac794dc9b) + [GitHub Repository](https://github.com/isaacarroyov/thesis_undergrad))
+
+### My professional interests 🤓
+Although my background is in physics, I aim to use my **data analysis and visualization skills** in other fields. For example, **social sciences and humanism** 🧑‍🤝‍🧑👬👭, **the arts** 🎨, **public policy** 🏛️ and **the environment** (hence my undergrad thesis) 🌱🍃.
+
+### My tech, data and math skills 📝
+Due to my engineering degree I have strong knowledge in math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis with **Python + Jupyter Notebooks**, data visualization with **R + tidyverse** and other softwares, such as **Adobe Illustrator**, **DataWrapper** or **Flourish**.
+
+My data visualization projects are pinned above this `README.md`
+
+### Other things about me ✨
+- 🎧 I love listening to **Alessia Cara**, **Residente** & **Calle 13**.
+- 📸 My favourite is hobby is photography.
+- 🎥 **"The secret life of Walter Mitty"** is my favourite movie and the one who inspired and motivated me to learn photography.
+- 🎨 I love **art**, especially **painting and architecture**. I enjoy going to art exhibitions and learning about **art history**. My favourite art movements are **impressionism and post-impressionism** (**Claude Monet** 🌷 and **Van Gogh** 🌻 are my favourite painters)
+
