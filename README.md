@@ -10,7 +10,7 @@ My full name (as a proud Mexican 🇲🇽) is Miguel Isaac Arroyo Velázquez (he
 - 🌳🔥🌳 My undergraduate thesis focused on **exploring and visualizing wildfire records and environmental data** from different sources (**satellite imagery** was one of them 🛰️ 🗺️) ([Medium article](https://towardsdatascience.com/data-exploration-google-earth-engine-as-my-undergrad-thesis-531ac794dc9b) + [GitHub repo](https://github.com/isaacarroyov/thesis_undergrad))
 
 ### My professional interests 🤓
-Although my background is in physics, I aim to use my **data analysis and visualization skills** in other fields. For example, **social sciences and humanism** 🧑‍🤝‍🧑👬👭, **the arts** 🎨, **public policy** 🏛️ and **the environment** (hence my undergrad thesis) 🌱🍃.
+Although my background is in physics, I aim to use my **data analysis and visualization skills** in other fields. For example, **social sciences and human rights** 🧑‍🤝‍🧑👬👭, **the arts** 🎨, **public policy** 🏛️ and **the environment** (hence my undergrad thesis) 🌱🍃.
 
 ### My tech, data and math skills 📝
 Due to my engineering degree I have strong knowledge in math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis with **Python + Jupyter Notebooks**, data visualization with **R + tidyverse** and other softwares, such as **Adobe Illustrator**, **DataWrapper** or **Flourish**.
