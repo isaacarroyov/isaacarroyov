@@ -15,7 +15,7 @@ Although my background is in physics, I aim to use my **data analysis and visual
 ### My tech, data and math skills 📝
 Due to my engineering degree I have strong knowledge in math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis with **Python + Jupyter Notebooks**, data visualization with **R + tidyverse** and other softwares, such as **Adobe Illustrator**, **DataWrapper** or **Flourish**.
 
-My data visualization projects are pinned above this `README.md`
+📌 My data visualization projects are pinned above this `README.md`
 
 ### Other things about me ✨
 - 🎧 I love listening to **Alessia Cara**, **Residente** & **Calle 13**.
