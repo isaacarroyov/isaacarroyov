@@ -13,7 +13,7 @@ My full name (as a proud Mexican 🇲🇽) is Miguel Isaac Arroyo Velázquez (he
 Although my background is in physics, I aim to use my **data analysis and visualization skills** in other fields. For example, **social sciences and human rights** 🧑‍🤝‍🧑👬👭, **the arts** 🎨, **public policy** 🏛️ and **the environment** (hence my undergrad thesis) 🌱🍃.
 
 ### My tech, data and math skills 📝
-Due to my engineering degree I have strong knowledge in math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis with **Python + Jupyter Notebooks**, data visualization with **R + tidyverse** and other softwares, such as **Adobe Illustrator**, **DataWrapper** or **Flourish**.
+Due to my engineering degree, I have strong knowledge of math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis with **Python + Jupyter Notebooks**, data visualization with **R + tidyverse** and other types of software, such as **Adobe Illustrator**, **DataWrapper**, or **Flourish**.
 
 📌 My data visualization projects are pinned below this `README.md`
 
