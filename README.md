@@ -1,6 +1,6 @@
 ### Hello a todas las personas 👋
 
-My full name (as a proud Mexican 🇲🇽) is Miguel Isaac Arroyo Velázquez (he/him), but I prefer my shorter version: **Isaac Arroyo**. I aspire to be a **Data Visualization Professional**. Some of the job positions **I'm more interested in are Information Designer and Data Journalist**.
+My full name (as a proud Mexican 🇲🇽) is Miguel Isaac Arroyo Velázquez (he/him), but I prefer my shorter version: **Isaac Arroyo**. I aspire to be a **Data Visualization Specialist**. Some of the job positions **I'm more interested in are Information Designer, Data Journalist and Graphics Reporter**.
 
 | 🐦 [twitter](https://www.twitter.com/unisaacarroyov/) | 🌐 [DataViz portfolio](https://unisaacarroyov.myportfolio.com) | 📄 [Résumé](https://github.com/isaacarroyov/isaacarroyov/blob/main/Resume_Isaac_Arroyo.pdf) |📧 isaacarroyov@outlook.com | 
 |---|---|---|---|
