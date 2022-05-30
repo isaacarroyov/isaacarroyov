@@ -19,7 +19,7 @@ Due to my engineering degree, I have strong knowledge of math (i.e. **statistics
 
 ### Other things about me ✨
 - 🎧 I love listening to **Alessia Cara**, **Residente** & **Calle 13**.
-- 📸 My favourite is hobby is photography.
+- 📸 My favourite hobby is photography.
 - 🎥 **"The secret life of Walter Mitty"** is my favourite movie and the one who inspired and motivated me to learn photography.
 - 🎨 I love **art**, especially **painting and architecture**. I enjoy going to art exhibitions and learning about **art history**. My favourite art movements are **impressionism and post-impressionism** (**Claude Monet** 🌷 and **Van Gogh** 🌻 are my favourite painters)
 
