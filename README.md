@@ -24,7 +24,7 @@ Although my background is in physics, I aim to use my **data analysis and visual
 Due to my engineering degree, I have strong knowledge of math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis with **Python** and **R**, and data visualization with coding (**R**) design software (**Adobe Illustrator**) and other types of data visualization software, such as **DataWrapper**, or **Flourish**.
 
 ### Other things about me ✨
-- 🎧 I love listening to **Alessia Cara**, **Residente** & **Calle 13**.
+- 🎧 I love listening to **Alessia Cara**, **Taylor Swift**, **Residente** & **Calle 13**.
 - 📸 My favourite hobby is photography.
 - 🎥 **"The secret life of Walter Mitty"** is my favourite movie and the one that inspired and motivated me to learn photography.
 - 🎨 I love **art**, especially **painting and architecture**. I enjoy going to art exhibitions and learning about **art history**.
