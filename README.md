@@ -1,16 +1,11 @@
-### Hello a todas las personas 👋
+### Hello a todas las personas, I'm Isaac Arroyo 🇲🇽 👋
 
-My full name (as a proud Mexican 🇲🇽) is Miguel Isaac Arroyo Velázquez (he/him), but I prefer my shorter version: **Isaac Arroyo**.
+I do data analysis and visualization as a Data Analyst in [N+ Focus](https://www.nmas.com.mx/nmas-focus/programas), the investigative journalism unit of N+ (Televisa-Univision). I work at the **intersection of numbers/math, shapes and colours**.
 
-I'm currently a part-time **Freelance Data Visualization Designer**, meaning I work at the **intersection of numbers, shapes and colours**. I love creating aesthetic, eye-catching and meaningful data visualizations.
-
-If you want to see all my projects, you can visit my Behance profile or look at my 📌 pinned projects.
-
-Contact me through my [Upwork profile](https://www.upwork.com/freelancers/~0140686444a348e01a) for a collaboration, but I'm open to a contract basis project.
+I also do freelance data visualization design (contact me through my [Upwork profile](https://www.upwork.com/freelancers/~0140686444a348e01a) for a collaboration; however, I'm open to a contract basis project). If you want to see all my projects, you can visit my Behance profile or look at my 📌 pinned projects.
 
 
-
-| 🐦 [twitter](https://www.twitter.com/unisaacarroyov/) | 🎨 [Portfolio](https://www.behance.net/unisaacarroyov) | 📄 [Résumé](https://github.com/isaacarroyov/isaacarroyov/blob/main/Resume_Isaac_Arroyo.pdf) |📧 isaacarroyov@outlook.com | :handshake: :page_facing_up: [Upwork (Freelancing)](https://www.upwork.com/freelancers/~0140686444a348e01a) |
+| 🐦 [twitter](https://www.twitter.com/unisaacarroyov/) | 🎨 [Behance - Portfolio](https://www.behance.net/unisaacarroyov) | 📄 [Résumé](https://github.com/isaacarroyov/isaacarroyov/blob/main/Resume_Isaac_Arroyo.pdf) |📧 isaacarroyov@outlook.com | :handshake: :page_facing_up: [Upwork (Freelancing)](https://www.upwork.com/freelancers/~0140686444a348e01a) |
 |---|---|---|---|---|
 
 ### Quick summary about my academic background
@@ -21,7 +16,7 @@ Contact me through my [Upwork profile](https://www.upwork.com/freelancers/~01406
 Although my background is in physics, I aim to use my **data analysis and visualization skills** in other fields. For example, **social sciences and human rights** 🧑‍🤝‍🧑👬👭, **the arts** 🎨, **public policy** 🏛️ and **the environment** (hence my undergrad thesis) 🌱🍃.
 
 ### My tech, data and math skills 📝
-Due to my engineering degree, I have strong knowledge of math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis with **Python** and **R**, and data visualization with coding (**R**) design software (**Adobe Illustrator**) and other types of data visualization software, such as **DataWrapper**, or **Flourish**.
+Due to my engineering degree, I have strong knowledge of math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis and visualization with **Python** and **R** (I'm soon, **D3.js**). Also, I know my way with design software (**Adobe Illustrator**) and other types of data visualization tools, such as **DataWrapper**, or **Flourish**.
 
 ### Other things about me ✨
 - 🎧 I love listening to **Alessia Cara**, **Taylor Swift**, **Residente** & **Calle 13**.
