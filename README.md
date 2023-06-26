@@ -16,7 +16,7 @@ I also do freelance work as a Data Visualization Designer/Specialist (contact me
 Although my background is in physics, I aim to use my **data analysis and visualization skills** in other fields. For example, **social sciences and human rights** 🧑‍🤝‍🧑👬👭, **the arts** 🎨, **public policy** 🏛️ and **the environment** (hence my undergrad thesis) 🌱🍃.
 
 ### My tech, data and math skills 📝
-Due to my engineering degree, I have strong knowledge of math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis and visualization with **Python** and **R** (and soon, **D3.js**). Also, I know my way with design software (**Adobe Illustrator**) and other types of data visualization tools, such as **DataWrapper**, or **Flourish**.
+Due to my engineering degree, I have strong knowledge of math (i.e. **statistics** & **linear algebra**) and unsupervised learning (**anomaly detection** & **pattern recognition** ). I mostly do data analysis and visualization with **Python** and **R** (and soon, **D3.js**). Also, I know my way with design software (**Adobe Illustrator**) and other types of data visualization tools, such as **DataWrapper** and **Flourish**.
 
 ### Other things about me ✨
 - 🎧 I love listening to **Alessia Cara**, **Taylor Swift**, **Residente** & **Calle 13**.
