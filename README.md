@@ -5,7 +5,7 @@ I do data analysis and visualization as a **Data Analyst in [N+ Focus](https://w
 I also do freelance work as a Data Visualization Designer/Specialist (contact me through my [Upwork profile](https://www.upwork.com/freelancers/~0140686444a348e01a) for a collaboration; however, I'm open to a contract basis project). If you want to see all my projects, you can visit my Behance profile or look at my 📌 pinned projects.
 
 
-| 🐦 [twitter](https://www.twitter.com/unisaacarroyov/) | 🎨 [Behance - Portfolio](https://www.behance.net/unisaacarroyov) | 📄 [Résumé](https://github.com/isaacarroyov/isaacarroyov/blob/main/Resume_Isaac_Arroyo.pdf) |📧 isaacarroyov@outlook.com | :handshake: :page_facing_up: [Upwork (Freelancing)](https://www.upwork.com/freelancers/~0140686444a348e01a) |
+| 🐦 [twitter](https://www.twitter.com/unisaacarroyov/) | 🎨 [Behance - Portfolio](https://www.behance.net/unisaacarroyov) | 📄 [Résumé](https://github.com/isaacarroyov/isaacarroyov/blob/main/Resume_Isaac_Arroyo.pdf) |📧 [isaacarroyov@outlook.com](mailto:isaacarroyov@outlook.com) | :handshake: :page_facing_up: [Upwork (Freelancing)](https://www.upwork.com/freelancers/~0140686444a348e01a) |
 |---|---|---|---|---|
 
 ### Quick summary about my academic background
